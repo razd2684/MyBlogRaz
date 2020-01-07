@@ -1,0 +1,33 @@
+<!DOCTYPE.html>
+<html dir="rtl" lang="he">
+<head>
+	<title>Raz Demri</title>
+	</head>
+		<body>
+			<article>
+            
+				<header>
+				<h1><strong>!!!קורות חיים!!!</strong></h1>
+				<p>
+					<ul>עבודה</ul>
+					<ul>ספרים שהוצאתי</ul>
+					<ul>חיי משפחה</ul> 
+				<p>
+				</header>
+<hr>
+				<section>
+					<h1>עבודה</h1>
+					<p>עובד בהייטק מרוויח יותר מכולם פה%$%$%$%</p>
+				</section>
+<hr>
+				<section>
+						<h1>ספרים שהוצאתי</h1>
+						<p>
+                        <ul>אני מלמד לספור</ul>
+                        <ul>אני מלמדר</ul>
+                        <ul>.ץ.ר</ul>
+                        </p>					
+				</section>
+
+		</body>
+</html>

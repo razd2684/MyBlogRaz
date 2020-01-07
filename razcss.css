@@ -1,0 +1,17 @@
+
+h1{
+    color:green;
+}
+.happy
+{
+    color:blue;
+}
+body{
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    text-shadow: 3px 2px black;
+    font-size: 60pt
+}
